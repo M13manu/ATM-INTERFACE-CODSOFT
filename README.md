@@ -20,9 +20,14 @@ To run the program, you need:
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the Java files (`ATM_Main.java`, `BankAccount.java`, `ATM.java`).
 4. Compile the Java files using the `javac` command:
-```javac ATM_Main.java```
+```
+javac ATM_Main.java
+```
 5. Run the compiled program using the `java` command:
-```java ATM_Main```
+```
+java ATM_Main
+```
+
 
 ## Usage
 
